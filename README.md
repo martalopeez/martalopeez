@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Marta</h1>
 <h3 align="center">Una estudiante de ingeniería informática creciendo como desarrolladora web</h3>
 
-- 🌱 En proceso de aprendizaje de **Next, Javascript, CSS y más tecnologías de desarrollo web.**
+- 🌱 En proceso de aprendizaje de **Next JS, Javascript, CSS y más tecnologías de desarrollo web.**
 
 - 💬 Puedes preguntarme sobre **HTML, Tailwind, Typescript y React.**
 
