@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Marta</h1>
 <h3 align="center">Una estudiante de ingeniería informática creciendo como desarrolladora web</h3>
 
-- 🌱 En proceso de aprendizaje de **React, Typescript, HTML y CSS**
+- 🌱 En proceso de aprendizaje de **React, Typescript, HTML, CSS y más tecnologías de desarrollo web.**
 
-- 💡 Datos curiosos **Me gustan los animales, salir a comer, viajar y el desarrollo web.**
+- 💡 Datos curiosos: **Me gustan los animales, salir a comer, viajar y el desarrollo web.**
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
