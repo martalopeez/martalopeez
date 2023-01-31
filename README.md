@@ -5,7 +5,7 @@
 
 - 💡 Datos curiosos: **Me gustan los animales, salir a comer, viajar y el desarrollo web.**
 
-- 👩‍💻 Proyecto en el que he colaborado: <a href="https://kilo-y-medio.vercel.app/">Kilo y Medio: Tienda de productos a granel</a>
+- 👩‍💻 Colaboración en proyecto: <a href="https://kilo-y-medio.vercel.app/">Kilo y Medio: Tienda de productos a granel</a>
 
 <h3 align="left">Contacta conmigo:</h3>
 <p align="left">
