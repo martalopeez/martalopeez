@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martalopeez&show_icons=true&theme=dracula&locale=es" alt="martalopeez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martalopeez&theme=dark" alt="martalopeez" /></p>
+
+<p><img src="https://komarev.com/ghpvc/?username=martalopeez&color=f1889f&style=flat" alt="martalopeez" /></p>
